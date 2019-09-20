@@ -1,0 +1,21 @@
+{
+  "name": "stnrt89/scroll",
+  "description": "packages",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Tatsiana",
+      "email": "t-tanja@bk.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+
+  "autoload": {
+    "psr-4": {
+      "Exfriend\\Restrict\\": ""
+    }
+  }
+}
+
